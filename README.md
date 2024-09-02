@@ -10,3 +10,6 @@ Can I customize it?
 
 How to download/eta?
  - Go to the releases and get the most up-to-date one!
+
+What it looks like:
+![IMG_0831](https://github.com/user-attachments/assets/6013a031-08f5-405d-892b-f858f7b11ced)
